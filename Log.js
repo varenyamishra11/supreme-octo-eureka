@@ -5,3 +5,5 @@ class Log extends BaseClass{
     Matter.Body.setAngle(this.body, angle);
   }
 }
+
+// Hello !
